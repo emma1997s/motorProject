@@ -1,0 +1,77 @@
+.bg-dark{
+    background-color: #333;
+    height: 15vh;
+}
+
+.bg-success {
+    background-color: green;
+}
+
+.text-danger{
+    color: red;
+}
+
+.text-success{
+    color: green;
+}
+
+.text-dark{
+    color: #000000;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.py-axis{
+    margin: 0 10px;
+}
+
+.btn-success-bg {
+    background-color: green;
+    color: #fff;
+}
+
+
+.bg-success {
+    background-color: green;
+    color: #fff;
+    
+}
+
+.bg-success-dark {
+    background-color: green;
+    color: #000000;
+}
+
+.bg-danger {
+    background-color: red;
+    color: #fff;
+    
+}
+.bg-white {
+    background-color: #fff;
+    color: #000000;
+    
+}
+
+.transparent {
+    opacity: 0.7;
+}
+
+.transparent-col:hover {
+    opacity: 0.7;
+    background-color: red;
+}
+
+.bg-cream {
+    background-color: coral;
+    border-radius: 2px;
+    margin-bottom: 5px;
+}
+
+.bg-gray {
+    background-color: #f4f4f4;
+    border-radius: 2px;
+    margin-bottom: 5px;
+}
